@@ -12,4 +12,4 @@ GitHub Finder is a web application that allows you to search for GitHub users an
 
 ## Live Demo
 
-Check out the live demo of the project [here](https://rockyhaque.github.io/gitHub_finder/).
+Check out the live demo of the project [here](https://hazrat-ali-github.vercel.app/).
