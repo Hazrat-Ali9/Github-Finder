@@ -44,7 +44,7 @@ class UI {
         let search = document.querySelector('.search');
         container.insertBefore(div, search);
     }
-
+// UI Design
     clearAlert() {
         let currentAlert = document.querySelector('.alert');
         if(currentAlert) {
